@@ -1,4 +1,5 @@
 ### Django ###
+.gitinore
 *.log
 *.pot
 *.pyc
